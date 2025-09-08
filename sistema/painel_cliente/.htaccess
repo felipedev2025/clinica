@@ -1,0 +1,15 @@
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} !-f
+
+RewriteCond %{REQUEST_FILENAME} !-d
+
+
+
+RewriteRule ^consultas(.*)$ index.php?pagina=consultas [L]
+
+RewriteRule ^agendamentos(.*)$ index.php?pagina=agendamentos [L]
+
+RewriteRule ^pagamentos(.*)$ index.php?pagina=pagamentos [L]
+
+RewriteRule ^arquivos(.*)$ index.php?pagina=arquivos [L]

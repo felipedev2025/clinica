@@ -1,0 +1,11 @@
+[24-Oct-2023 19:00:43 America/Sao_Paulo] PHP Deprecated:  Function strftime() is deprecated in /home/sistehugo/auroclin.sistemashugo.com.br/painel/rel/procedimentos.php on line 6
+[24-Oct-2023 19:48:29 America/Sao_Paulo] PHP Deprecated:  Function strftime() is deprecated in /home/sistehugo/auroclin.sistemashugo.com.br/painel/rel/lucro.php on line 6
+[24-Oct-2023 19:50:11 America/Sao_Paulo] PHP Deprecated:  Function strftime() is deprecated in /home/sistehugo/auroclin.sistemashugo.com.br/painel/rel/financeiro.php on line 6
+[24-Oct-2023 19:50:11 America/Sao_Paulo] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/sistehugo/auroclin.sistemashugo.com.br/painel/rel/financeiro.php on line 213
+[24-Oct-2023 19:50:11 America/Sao_Paulo] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/sistehugo/auroclin.sistemashugo.com.br/painel/rel/financeiro.php on line 213
+[24-Oct-2023 19:50:11 America/Sao_Paulo] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/sistehugo/auroclin.sistemashugo.com.br/painel/rel/financeiro.php on line 213
+[24-Oct-2023 19:50:11 America/Sao_Paulo] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/sistehugo/auroclin.sistemashugo.com.br/painel/rel/financeiro.php on line 213
+[24-Oct-2023 19:56:19 America/Sao_Paulo] PHP Deprecated:  Function strftime() is deprecated in /home/sistehugo/auroclin.sistemashugo.com.br/painel/rel/agendamentos.php on line 6
+[24-Oct-2023 19:56:19 America/Sao_Paulo] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/sistehugo/auroclin.sistemashugo.com.br/painel/rel/agendamentos.php on line 290
+[24-Oct-2023 19:56:59 America/Sao_Paulo] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/sistehugo/auroclin.sistemashugo.com.br/painel/rel/agendamentos.php on line 290
+[24-Oct-2023 20:00:08 America/Sao_Paulo] PHP Deprecated:  Function strftime() is deprecated in /home/sistehugo/auroclin.sistemashugo.com.br/painel/rel/comissoes.php on line 6

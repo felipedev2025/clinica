@@ -1,0 +1,8 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Coloca as rotas específicas primeiro
+RewriteRule ^detalhes-(.*)$ detalhes.php?id=$1 [L]
+RewriteRule ^agendamento(.*)$ agendamento.php [L]
+RewriteRule ^pagamento/(.*)/(.*)$ sistema/pagamentos/index.php?id_conta=$1&total=$2 [L]
