@@ -22,3 +22,19 @@ Este projeto é um sistema em **PHP** desenvolvido para auxiliar na gestão de a
 - Scripts de automação para substituições em massa.
 
 ## 🗂 Estrutura de Arquivos
+clinica/
+│-- ajax/ # Scripts AJAX
+│-- assets/ # Arquivos estáticos (CSS, JS, imagens)
+│-- cron/ # Scripts de agendamento automático
+│-- forms/ # Formulários do sistema
+│-- sistema/ # Lógica do sistema
+│-- .htaccess # Regras de servidor Apache
+│-- agendamento.php # Tela de agendamentos
+│-- cabecalho.php # Cabeçalho (layout)
+│-- config.php # Configuração do sistema
+│-- detalhes.php # Tela de detalhes
+│-- enviar.php # Scripts de envio
+│-- index.php # Página inicial
+│-- rodape.php # Rodapé (layout)
+│-- replace_all.ps1 # Script de substituição (Windows PowerShell)
+│-- replace_all.sh # Script de substituição (Linux/Mac)
