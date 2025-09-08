@@ -1,3 +1,17 @@
+# Logs e cache
+*.log
+*.cache
+*.tmp
 
-## ✨ Autor
-Desenvolvido por **Felipe Fragoso - 2025**
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Pastas temporárias
+tmp/
+logs/
+cache/
+
+# Configurações sensíveis
+*.env
